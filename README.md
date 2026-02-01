@@ -61,7 +61,7 @@ Através de *Modus Ponens*, *Silogismo Disjuntivo* e análise de Tabela Verdade,
 ## ⚠️ Disclaimer / Nota Legal
 **Este projeto é uma obra de ficção desenvolvida para fins exclusivamente educacionais e acadêmicos.**
 
-O enredo e a ambientação são inspirados na franquia de filmes Alien, mas os personagens (Peçanha, Vector, Logan, etc.) e a trama específica deste jogo são criações originais dos autores pa[...] 
+O enredo e a ambientação são inspirados na franquia de filmes Alien, mas os personagens (Peçanha, Vector, Logan, etc.), o código, lógica e ideia deste jogo são criações originais dos autores 
 
 
 ## 📦 Como Rodar o Projeto
